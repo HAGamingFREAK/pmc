@@ -1,4 +1,4 @@
-if user = "1" then
+if user[1] = "1" then
 else
 os.exit()
 end
