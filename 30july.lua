@@ -2,6 +2,7 @@ os.exit()
 gg.alert("mcha normal")
 function a()
 gg.alert("function a")
+HOMEDM = 1
 end
 function Ecrypt(Text)
    return Text:gsub('.', function (c) return string.format ("%02X", (string.byte(c) - 22222222 ) % 256) end):gsub(" ", "+")
