@@ -1,4 +1,3 @@
-os.exit()
 gg.alert("mcha normal")
 function a()
 gg.alert("function a")
