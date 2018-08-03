@@ -1,3 +1,8 @@
+if user = "1" then
+else
+os.exit()
+end
+
 gg.alert("mcha normal")
 function a()
 gg.alert("function a")
