@@ -1661,19 +1661,6 @@ end
 
   while true do
   if gg.isVisible(true) then
-  if pcall(load('string.dump(gg.searchNumber)')) or pcall(load('string.dump(load)')) or pcall(load('string.dump(string.dump)')) or load('return string.dump')() == false
-then
-print("zi")
-else
-print("mezal")
-end
-
-if(debug.getupvalue(tostring,1) then
-print("loada")
-load("string.dump=false")()
-else
-print("ma lawdech")
-end
 
     HOMEDM = 1
     gg.setVisible(false)
